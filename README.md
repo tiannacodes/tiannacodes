@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @tiannacodes (Tianna or T)
+- 👋 **Hi, I’m @tiannacodes (Tianna or T)**
 - 👀 I’m interested in ... full stack software development! I'm working to become a well rounded programmer as a career. 
-- 🌱 I’m currently learning ... Java, Python, React/Node, Operating Systems, and Data Networking!
+- 🌱 I’m currently learning ... Python and React/Node.
+- 🧠 I have experience in SQL, C++, JavaScript, HTML5, CSS, JavaScript, Java, and windows form applications with VB.NET in Visual Studio.
+- I also have knowledge in Operating Systems, Data Networking, and the Microsoft Power Platform!
 - 📫 How to reach me ... my LinkedIn! https://www.linkedin.com/in/tianna-hatch-9a47ba12b/
 
 <!---
